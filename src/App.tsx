@@ -1,7 +1,7 @@
 import React from "react";
 
 const App = () => {
-  return <div>Welcome to ReactJS Mentoring Program !</div>;
+  return <div className='text-xl'>Welcome to ReactJS Mentoring Program !</div>;
 };
 
 export default App;
